@@ -1,3 +1,5 @@
+github.com/chengyunbo/go-study v0.0.0-20200603142105-4cb8dc5deda3 h1:lkYQmIrJeCG3Dwd5pP/x8VjYpRW/7xvGuBvnBiLtvvI=
+github.com/chengyunbo/go-study v0.0.0-20200603142105-4cb8dc5deda3/go.mod h1:6Lk84v30Kqp+e83F3xPKAc16Kb4xbvjfCN2WnDQDvnc=
 github.com/davecgh/go-spew v1.1.0/go.mod h1:J7Y8YcW2NihsgmVo/mv3lAwl/skON4iLHjSsI+c5H38=
 github.com/labstack/echo v3.3.10+incompatible h1:pGRcYk231ExFAyoAjAfD85kQzRJCRI8bbnE7CX5OEgg=
 github.com/labstack/echo v3.3.10+incompatible/go.mod h1:0INS7j/VjnFxD4E2wkz67b8cVwCLbBmJyDaka6Cmk1s=
